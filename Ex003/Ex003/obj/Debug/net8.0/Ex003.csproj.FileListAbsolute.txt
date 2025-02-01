@@ -1,0 +1,14 @@
+D:\visual studio projetos\Ex003\Ex003\bin\Debug\net8.0\Ex003.exe
+D:\visual studio projetos\Ex003\Ex003\bin\Debug\net8.0\Ex003.deps.json
+D:\visual studio projetos\Ex003\Ex003\bin\Debug\net8.0\Ex003.runtimeconfig.json
+D:\visual studio projetos\Ex003\Ex003\bin\Debug\net8.0\Ex003.dll
+D:\visual studio projetos\Ex003\Ex003\bin\Debug\net8.0\Ex003.pdb
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\Ex003.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\Ex003.AssemblyInfoInputs.cache
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\Ex003.AssemblyInfo.cs
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\Ex003.csproj.CoreCompileInputs.cache
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\Ex003.dll
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\refint\Ex003.dll
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\Ex003.pdb
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\Ex003.genruntimeconfig.cache
+D:\visual studio projetos\Ex003\Ex003\obj\Debug\net8.0\ref\Ex003.dll
